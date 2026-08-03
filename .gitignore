@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# React Native / Expo
+node_modules/
+.expo/
+
+# Variables de entorno
+.env
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
