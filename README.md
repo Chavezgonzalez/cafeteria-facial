@@ -213,44 +213,6 @@ npx expo start
 
 ---
 
-# 📷 Capturas
-
-## Pantalla principal
-
-*(Agregar captura)*
-
----
-
-## Registro facial
-
-*(Agregar captura)*
-
----
-
-## Inicio de sesión
-
-*(Agregar captura)*
-
----
-
-## Menú
-
-*(Agregar captura)*
-
----
-
-## Carrito
-
-*(Agregar captura)*
-
----
-
-## Historial
-
-*(Agregar captura)*
-
----
-
 # 👨‍💻 Autor
 
 **Alan Jesús Chávez González**
