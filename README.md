@@ -180,7 +180,7 @@ POST /auth/login-face
 ## Clonar repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/cafeteria-facial.git
+git clone https://github.com/Chavezgonzalez/cafeteria-facial.git
 ```
 
 ---
