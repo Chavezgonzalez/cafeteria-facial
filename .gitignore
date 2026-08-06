@@ -13,3 +13,6 @@ node_modules/
 # Archivos del sistema
 Thumbs.db
 .DS_Store
+
+backend/*.db
+backend/data/*.db
